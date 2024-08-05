@@ -2443,3 +2443,11 @@ input, select, textarea {
 					}
 
 	}
+	.button-container {
+		text-align: center; /* Center inline elements */
+	}
+	
+	.button {
+		display: inline-block; /* Ensure the button is inline-block for text-align centering */
+		/* Your button styles */
+	}
